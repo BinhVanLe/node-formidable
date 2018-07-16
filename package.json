@@ -27,5 +27,8 @@
   "bugs": {
     "url": "http://github.com/felixge/node-formidable/issues"
   },
-  "optionalDependencies": {}
+  "optionalDependencies": {},
+  "dependencies": {
+    "debug": "^3.1.0"
+  }
 }
